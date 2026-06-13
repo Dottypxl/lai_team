@@ -87,3 +87,10 @@ No extra documents unless we agree first.
 - **Files**: Added role instructions, product development playbook, beta testing playbook, intake and delivery system, product ladder guide, and product development source notes.
 - **Decision**: Verso handles product development: front-door offers, beta design, intake and delivery systems, product ladders, proof collection, and product-room testing.
 - **Boundary**: Olive decides whether something should exist. Verso turns the chosen idea into a small, testable offer, beta, product room, or delivery system.
+
+## 2026-06-13
+
+* **Addition**: Added `06_Verso_Product_Partner/Lahde_Beta_Product_Spec.md`.
+* **Decision**: Luopua Lähde Beta will use an async-first model instead of a 90-minute live excavation session.
+* **Product shape**: Client sends rough material, Kirsi does AI-assisted source excavation, a 30-minute clarification call confirms the thread and gaps, and the client receives a compact Lähde Source Document.
+* **Boundary**: Lähde Beta is not a content calendar, social media management, AI helper setup, public offer page, group workshop, or ongoing support.

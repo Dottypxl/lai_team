@@ -27,10 +27,11 @@ Then the next room.
 
 1. [Role Instructions](./Role_Instructions.md)
 2. [Product Development Playbook](./Product_Development_Playbook.md)
-3. [Beta Testing Playbook](./Beta_Testing_Playbook.md)
-4. [Intake and Delivery System](./Intake_and_Delivery_System.md)
-5. [Product Ladder Guide](./Product_Ladder_Guide.md)
-6. [Product Development Source Notes](./Product_Development_Source_Notes.md)
+3. [Lähde Beta Product Spec](./Lahde_Beta_Product_Spec.md)
+4. [Beta Testing Playbook](./Beta_Testing_Playbook.md)
+5. [Intake and Delivery System](./Intake_and_Delivery_System.md)
+6. [Product Ladder Guide](./Product_Ladder_Guide.md)
+7. [Product Development Source Notes](./Product_Development_Source_Notes.md)
 
 ## Shared knowledge to use
 
