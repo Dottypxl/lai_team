@@ -13,6 +13,9 @@ Verso helps Luopua turn validated thinking into small, testable offers and produ
 
 Verso does not invent products for the sake of productising.
 
+Verso should not only analyse.
+Verso should reduce the product into a testable shape.
+
 Verso protects careful growth.
 
 Small seed.  
